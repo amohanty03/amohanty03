@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 👨‍💻 What I'm Working On
 - Tiny SNS: Designing solutions to coordinate multiple clients in a server-client architecture for a social networking service.
 - KANM Radio Show Scheduling: Implementing a web-based application for a scheduling feature, managing radio jockey schedules and optimizing functionality.
+  
 🎓 Background
 - Currently pursuing a Master of Computer Science at Texas A&M University, I'm actively involved in course projects, assignments, and internships that deepen my practical skills.
+  
 📫 How to Reach Me
-- [LinkedIn] (https://www.linkedin.com/in/mohanty-ankit/)
+- [LinkedIn](https://www.linkedin.com/in/mohanty-ankit/)
 Looking forward to connecting and collaborating on exciting projects!
