@@ -3,6 +3,9 @@ I'm an aspiring software engineer passionate about developing impactful and effi
   
 🎓 Background
 - I'm currently pursuing a Master of Computer Science at Texas A&M University while actively involved in course projects, and assignments. I am also seeking Summer 2025 SWE internships.
+
+👨‍💻 Projects
+- I'm currently on my personal web portfolio! Stay tuned :)
   
 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/mohanty-ankit/)
